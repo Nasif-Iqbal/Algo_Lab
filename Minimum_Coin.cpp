@@ -25,7 +25,7 @@ int main()
     return 0;
 }
 
-///time complexity: O(n)
+///time complexity: O(nlog(n))
 /*
 4
 1 2 5 10
