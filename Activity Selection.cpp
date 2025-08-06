@@ -26,7 +26,7 @@ int main()
 
     cout<<ans<<endl;
 }
-/// time complexity : o(n)
+/// time complexity : o(nlog(n))
 
 /*
 10
