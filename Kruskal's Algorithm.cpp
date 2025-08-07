@@ -57,7 +57,7 @@ int main()
     cout<<total_cost<<endl;
 }
 
-/// time complexity : O((V+E)log(V))
+/// time complexity : O(Elog(E))
 /*
 6 9
 5 4 9
